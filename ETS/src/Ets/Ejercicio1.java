@@ -8,6 +8,7 @@ public class Ejercicio1 {
 		
 		System.out.print("radio: ");
 		int radio = teclado.nextInt();
+		/*hola mi nombre es Alex*/
 		
 		double area = Math.PI * radio * radio;
 		
