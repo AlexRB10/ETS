@@ -10,6 +10,7 @@ public class Ejercicio1 {
 		int radio = teclado.nextInt();
 		/*hola mi nombre es Alex*/
 		/*my name is Alex*/
+		/*Alex*/
 		
 		double area = Math.PI * radio * radio;
 		
